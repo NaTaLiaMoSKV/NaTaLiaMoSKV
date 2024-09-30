@@ -29,7 +29,7 @@ My name is Natalia, and I am a junior frontend developer with experience in web 
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 
-## 🌱 Currently Learning:
+## 🌱 Currently:
 - Learning Typescript
 - Improving my PostgreSQL skills
 - Diving deeper into GSAP animations
